@@ -156,6 +156,7 @@ class BTree{
         return array;
     };
 
+    
     levelOrder = () =>{
         let array = [];
         let queue = [];
